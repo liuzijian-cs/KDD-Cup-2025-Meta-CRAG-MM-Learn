@@ -1,5 +1,7 @@
 # KDD-Cup-2025-Meta-CRAG-MM-Learn
 
+【下面是Copilot随便瞎写的，后面有空的话再完善】
+
 这是一个基于KDD Cup 2025多模态检索增强生成（Meta CRAG-MM）挑战赛的学习项目。本项目旨在通过学习和复现顶尖团队的技术方案，深入理解多模态检索增强生成技术在实际应用中的实现方式。
 
 ## Competition Overview
