@@ -1,0 +1,10 @@
+[project]
+name = "kdd-cup-2025-meta-crag-mm-learn"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "cragmm-search-pipeline>=0.5.1",
+    "vllm>=0.10.2",
+]
